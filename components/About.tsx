@@ -98,9 +98,9 @@ export default function About() {
               animate={inView ? { opacity: 1 } : {}}
               transition={{ delay: 0.8 }}
             >
-              My journey in tech has been exciting and diverse. From freelance video editing to 
-              teaching students, I&apos;ve gained valuable experience that complements my technical skills. 
-              I believe in continuous learning and always strive to stay updated with the latest 
+              My journey in tech has been exciting and diverse. From freelance video editing to
+              teaching students, I&apos;ve gained valuable experience that complements my technical skills.
+              I believe in continuous learning and always strive to stay updated with the latest
               technologies.
             </motion.p>
 

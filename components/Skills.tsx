@@ -99,7 +99,7 @@ export default function Skills() {
             animate={inView ? { opacity: 1 } : {}}
             transition={{ delay: 0.6 }}
           >
-            Here are some of the technologies and skills I&apos;ve mastered throughout my journey
+            Here are some of the technologies and skills I&apos;ve mastered throughout my journey.
           </motion.p>
         </motion.div>
 
